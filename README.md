@@ -1,6 +1,7 @@
 # Image-Caption-Generator
-![GitHub Logo](D:\UIT\VScode\Caption_Generator\Flickr8k_Dataset\Flicker8k_Dataset\111537222_07e56d5a30.jpg)
-Format: ![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FIMG_(company)&psig=AOvVaw0DzXkttuJSlf7nID8GJ289&ust=1627127631211000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiKw_WQ-fECFQAAAAAdAAAAABAD)
+![plot](./Capture.PNG)
+![plot](./Capture1.PNG)
+
 ## Description 
   * This is the Project that gernerates Caption based on image.
   * This implementation is based on CNN-RNN using [Kaggle dataset](https://www.kaggle.com/adityajn105/flickr8k) and [Xception model](https://keras.io/api/applications/).  
